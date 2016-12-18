@@ -5,7 +5,7 @@ date: 2016-12-18
 ---
 
 Yesterday, I was able to get things running with the all the nuts and bolts connected. 
-Now I just have to start designed the whole site again.
+Now I just have to start designing the whole site again.
 
 What I have to do:
 
