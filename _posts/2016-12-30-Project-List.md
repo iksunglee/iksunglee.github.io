@@ -6,7 +6,7 @@ date: 2016-12-30
 
 <center>
 <h2>I just wanted to post some of my ambitions for year 2017 </h2>
-<center>
+</center>
 <br>
 
 <ul><h3>Single person projects:</h3>
