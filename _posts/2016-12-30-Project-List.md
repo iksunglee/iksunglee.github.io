@@ -3,9 +3,9 @@ layout: post
 title: "Project List"
 date: 2016-12-30
 ---
-<center>
+
 ##I just wanted to post some of my ambitions for year 2017.
-</center>
+
 
 ###Single person projects:
  [] Personal Site (including design)
@@ -27,5 +27,5 @@ date: 2016-12-30
 - [] Post at least one question in stack overflow
 - [] Create Jumper under my own brand name (probably through Alibaba)
 
-<hr>
+
 ##the list will go on until 2017. (subject to update)
