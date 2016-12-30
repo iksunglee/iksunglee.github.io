@@ -8,10 +8,10 @@ date: 2016-12-30
 </center>
 
 ###Single person projects:
-- [] Personal Site (including design)
-- [] Google University Study list
-- [] NFC Business Card
-- [] Data Based Web Application (using APIs)
+ [] Personal Site (including design)
+ [] Google University Study list
+ [] NFC Business Card
+ [] Data Based Web Application (using APIs)
 
 ###Skills:
 - [] Open Projects (freecodecamp)
