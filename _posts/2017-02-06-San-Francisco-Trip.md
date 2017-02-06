@@ -11,4 +11,4 @@ Generally I didn't actually look forward in the learning process. I did not know
 
    > Every system maybe reused for other niche markets
    >> This was when we were visiting a church in Berkeley and had lunch there. There were at lot of people
-    > who look all normal blue colar workers. 
+   >> who look all normal blue colar workers. 
