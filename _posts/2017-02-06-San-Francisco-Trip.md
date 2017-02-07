@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "San Francisco SEED"
-date: 2016-12-30
+date: 2017-02-06
 ---
 
 My trip to San Francisco and what I learned:
@@ -19,6 +19,6 @@ Small steps at a time... Really small steps
 -------------------------------------------
 
 > Block71, Singapore, and a cute smile. Fiona was an inspiration for this lesson. She is a cofounder of the Cookie company called **"Green Peas Cookie"**. These non-gluten based cookies is now a constant reminder that you need to keep moving forward but in small steps. Meeting people who you can meet do the things that you could do now. Don't try to over strech or else you'll get burnt out and end up giving up. It's about the process not the results, so keep your head high and move on forward. 
-*quicknote if you are interested in cookies just follow this <https://www.greenpeacookie.com/> link
+*quicknote if you are interested in cookies just follow this [link](https://www.greenpeacookie.com/)
 it's really healthy and tasty as well~
 
