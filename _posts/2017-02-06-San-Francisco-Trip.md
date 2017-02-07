@@ -1,11 +1,8 @@
 ---
 layout: post
-title: "San Francisco SEED"
+title: "My trip to San Francisco and what I learned:"
 date: 2017-02-06
 ---
-
-My trip to San Francisco and what I learned:
-============================================
 
 Generally I didn't actually look forward in the learning process. I did not know what to expect from the trip but later realized that there are a lot of things to study around the world. So let me share some of them.
 
