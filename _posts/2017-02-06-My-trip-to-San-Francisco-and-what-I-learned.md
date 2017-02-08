@@ -23,4 +23,5 @@ Traveling with a purpose is the best way to move forward
 --------------------------------------------------------
 
 >This trip was a last minute trip to the US. It was almost canceled due to lack of funds but in the end the secretary was able to rake up the funds for different departments so that we could go. So thank you for that.
+
 >To forget what I have lost and kept on going 
