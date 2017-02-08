@@ -24,4 +24,8 @@ Traveling with a purpose is the best way to move forward
 
 >This trip was a last minute trip to the US. It was almost canceled due to lack of funds but in the end the secretary was able to rake up the funds for different departments so that we could go. So thank you for that.
 
->To forget what I have lost and kept on going 
+>So as a result of this last minute trip to the Silicon Valley, I have found out that we had to create our own schedules to get the best out of our trip there. This was a challenge to us but later we managed to find more interesting meetings that we have never imagined that could be possible. (or maybe it's just me) I personally think, planned or spontaneous we have the pro
+
+>So how did we do it? We checked for meetups that is generally free or maybe cheap enough to help us learn something new in the span of 2~3 weeks. Also we had a link to the TechShop(SF) so that can learn something new from professional makers in the makerspace. (Popcorn and Hot Chocolates are good)
+
+>F
