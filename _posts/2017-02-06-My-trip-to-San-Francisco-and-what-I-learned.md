@@ -28,4 +28,6 @@ Traveling with a purpose is the best way to move forward
 
 >So how did we do it? We checked for meetups that is generally free or maybe cheap enough to help us learn something new in the span of 2~3 weeks. Also we had a link to the TechShop(SF) so that can learn something new from professional makers in the makerspace. (Popcorn and Hot Chocolates are good)
 
->F
+>In other words, our funds may have affected our way of approaching things but ironically due to lack of fund we were able to meet people who wasn't in our usual social circle of realm of possibilities which included a construction company CEO who also runs a coffee shop with his wife in the heart of San Francisco.
+
+
