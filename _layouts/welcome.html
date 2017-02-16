@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- for boostrap applications -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+  </style>
+   <link rel="stylesheet" type="text/css"
+          href="https://fonts.googleapis.com/css?family=Pacifico">
+</head>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lobster">
+		</head>
+		<body> 
+			<header>
+			<center>
+				<h1> <div font-family:'Lobster', color:6B8E23><a href="/"> iksunglee*</a> </div> </h1>
+			
+			<!--
+			<img src="https://github.com/iksunglee/iksunglee.github.io/blob/master/image/travel2.png?raw=true" alt="logo" style="height: 100px;width:250px;">
+			-->
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home</a></li>
+		        	<li><a href="/about">About</a></li>
+	        		<li><a href="/cv">CV</a></li>
+	        		<li><a href="/blog">Blog</a></li>
+				<li><a href="/update">Instagram</a> </li>
+	    		</ul>
+			</nav>
+			</center>
+			</header>
+			<div class="container">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="mailto:iksungleekorea@gmail.com">email</a></li>
+	        		<li><a href="https://github.com/iksunglee">github.com/iksunglee</a></li>
+				<li><a href="https://kr.linkedin.com/in/iksunglee">linkedin </a></li>
+				<li><a href="https://www.youtube.com/user/movement109/featured">Youtube</a></li>
+				</ul>
+			</footer>
+		</body>
+	</html>
