@@ -17,6 +17,8 @@ Foriegn traveller who need money sell their pictures or handmade products to ear
 
 All is good where everyone is productive but there is one dangling question that hunt my mind as I walk pass people in Hong Kong. 
 >Is there a more free solution to optimise human productivity? 
+
+
 I guess that's another assignment given to humanity as a whole.
 
 A reliable case study for Specialization optimization by the government
