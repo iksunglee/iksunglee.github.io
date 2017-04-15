@@ -26,5 +26,16 @@ A reliable case study for Specialization optimization by the government
 
 I stated in one of the my examples for the perfect competition model above, Banks print thier own notes for the Hong Kong. If you don't believe me just search for Hong Kong bank notes (Bills) then you will see the logo of one of three banks selected by the government to print notes. The most notable one would be HSBC bank. I don't know any other country doing this but this is kind of smart in the part of the government leaving the banks to do what they are designed to do. (although I am the skeptical on the banks efficency and moral perfection of its human captial)
 
-to be continued working article
+Geography is a big deal
+-----------------------
+
+Hong Kong generally is known for it's special neon lights and other urban landscapes which have been influencing pop culture around the world. This is all thanks to the Geography and the colonial history of Hong Kong. The full story about this is facinating but I won't go deep on this because this requires a separate blog entry on its own.
+
+So Geography, small islands with large population of inhabitants from pre and post-colonial Hong Kong which contributed to the fast growth of the country. These group of people have played a vital part in influencing the Asia-pacific history creating by being part of the group called "Four Asian Dragons" that have wooed the world with it's fast develpment to a developed country. Yes everything was fast and profitable but the problem was the place was too small for everyone. This is where the problem starts.
+
+Over-population. People lack spaces to live which made a "balcony" as sign of wealth in Hong Kong. Everyone has to work for a living knowing that there aren't taxes to support the aging population(at least for medical subsidies from the government) or they just have to relocated somewhere else in China or other cheaper alternative places.
+
+Bottomline is if you don't have the money or skills to stay afloat the natural order of things in Hong Kong requires you to leave the place.
+
+end of entry
 ==
