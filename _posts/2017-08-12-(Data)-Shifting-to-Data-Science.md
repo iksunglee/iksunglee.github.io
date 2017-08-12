@@ -1,3 +1,8 @@
+---
+layout: post
+title: "(Data) Shifting to Data Science"
+date: 2017-08-12
+---
 
 
 My experiences on shifting my career to Data Science.
@@ -10,7 +15,7 @@ Data Science for me is generally finding some hidden treasure in a rubble of tra
 
 Observation is the generally a basic innate skill that a human being is born with. You come out of your mother's womb crying  and a couple of months later you start to imitate things around you. (this is why we have parental guidance in TV shows) which later leads us to our decisions that shape our lives. We may not be in the same option set, status quo or environment from our predecessors but we do make similar actions in order to live our everyday life. We update our 'database' of observations everyday keeping the things that benefit or just entertains us. (this system maybe hacked or engineered by social norms and other factors but generally it keeps us alive)
 
-So then I would like to ask you readers why aren't we boosting our capabilities to learn or 'super' observe unknown patterns and other hidden knowledge through our innovations today? Honestly, I don't have a sure answer. But what I do know is that there is a way to start creating such 'super powers' data analyzing capabilities within your own ecosystem of data. So my advice is start with yourself and move to bigger data sets that seemed big at first. 
+So then I would like to ask you readers why aren't we boosting our capabilities to learn or 'super' observe unknown patterns and other hidden knowledge through our innovations today? Honestly, I don't have a sure answer. But what I do know is that there is a way to start creating such 'super powers' data analyzing capabilities within your own ecosystem of data. So my advice is start with your self-generated data and move to bigger data sets that seemed big at first. 
 
-
+Note: This post is generally my idea of what Data Science is and my perspective about vital need for Data Science in all fields of business.
 
