@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My trip to San Francisco and what I learned:"
+title: "(Travel) My trip to San Francisco and what I learned:"
 date: 2017-02-06
 ---
 
