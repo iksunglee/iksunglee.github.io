@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I learned in HongKong"
+title: "(Travel) What I learned in HongKong"
 date: 2017-02-16
 ---
 
