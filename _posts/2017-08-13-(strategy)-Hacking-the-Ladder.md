@@ -1,7 +1,7 @@
 ---
-Post
-Title: (strategy) Hacking the Ladder
-Date:2017-08-13
+layout: post
+title: "(strategy) Hacking the Ladder"
+Date: 2017-08-13
 ---
 
 Hacking the Ladder
