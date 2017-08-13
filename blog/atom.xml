@@ -11,7 +11,7 @@ layout: feed
 	<id>http://iksunglee.github.io/blog</id>
 	<author>
 		<name>Ik Sung Lee</name>
-		<email>the_classic7@hotmail.com</email>
+		<email>iksungleekorea@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
