@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(strategy) Hacking the Ladder"
+title: "(Strategy) Hacking the Ladder"
 Date: 2017-08-13
 ---
 
