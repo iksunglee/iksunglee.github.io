@@ -37,5 +37,4 @@ Over-population. People lack spaces to live which made a "balcony" as sign of we
 
 Bottomline is if you don't have the money or skills to stay afloat the natural order of things in Hong Kong requires you to leave the place.
 
-end of entry
-==
+<a href="https://iksunglee.github.io/blog/"> back to blog list </a>
