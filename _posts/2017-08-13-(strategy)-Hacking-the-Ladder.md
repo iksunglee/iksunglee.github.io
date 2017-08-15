@@ -20,3 +20,6 @@ Now to evaluate my options and other alternatives that I currently have right no
 So with all that said, I am hoping that I will soon find that one of these options would help me meet people who would be willing to help me grow my career ambition. 
 
 I hope this 'hack' plan will be in motion soon and hopefully I could update you readers soon on the current ladder hack plan for the next six months.
+
+
+<a href="https://iksunglee.github.io/blog/"> back to blog list </a>
