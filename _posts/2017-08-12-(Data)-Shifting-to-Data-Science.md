@@ -19,3 +19,5 @@ So then I would like to ask you readers why aren't we boosting our capabilities 
 
 Note: This post is generally my idea of what Data Science is and my perspective about vital need for Data Science in all fields of business.
 
+
+<a href="https://iksunglee.github.io/blog/"> back to blog list </a>
